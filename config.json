@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdave",
+        "uuid": 8096282,
+        "checksum": "jwq43i"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
